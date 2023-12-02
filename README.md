@@ -1,1 +1,0 @@
-Following The Odin Project, I am creating an event manager program that works with the Google API Ruby client. It's been a very interesting learning experience.
